@@ -3,6 +3,10 @@
 **Concept Overview:**
 The idea revolves around a game or virtual environment that mirrors the real world but operates across multiple interconnected universes, each with unique environments, challenges, and experiences. Imagine a world where everyday actions and spaces, such as gym rooms, day and night cycles, galaxies, emotions, and data collection, are dynamically influenced by the choices and actions of players. This ecosystem not only allows for content creation but also provides a platform for AI, human interaction, and self-growth.
 
+# Inspired Video
+
+[![Watch the video](https://img.youtube.com/vi/kopoLzvh5jY/0.jpg)](https://youtu.be/kopoLzvh5jY)
+
 **Key Components:**
 
 1. **Many Universes:**
